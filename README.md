@@ -1,2 +1,2 @@
-# platformerCollabGODOT
+# FirstCollabGODOT
 Little godot collab..
